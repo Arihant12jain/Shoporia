@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Wittgenstein:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css');
+body{ font-family: "Wittgenstein", serif;}
+input:focus{
+    outline:none;
+}
+.around button:hover{
+    background-color: blue;
+    padding:8px;
+    border-radius: 6rem;
+    transition:  ease .3s;
+}
+.back{
+    background-color: #233A95;
+}
